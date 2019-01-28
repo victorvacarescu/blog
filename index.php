@@ -5,4 +5,4 @@ require_once ('helper.php');
 
 $db = conectareBD();
 
-print_r($db);
+print_r($db);die(); 
